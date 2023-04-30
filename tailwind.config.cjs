@@ -5,7 +5,7 @@ module.exports = {
     extend: {
     colors:{
     'alt':'#F8F4EA',
-    'alt2':'#F8B1E6'
+    'alt2':'#F8B1E7'
     }
     },
   },
